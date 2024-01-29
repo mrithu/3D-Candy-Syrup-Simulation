@@ -149,3 +149,10 @@ Confirm that the audio and camera movements are synchronized effectively.
 
 
 ## Output
+![frame3](output/BlenderOutputCandyOnWrapper0003.png)
+![frame100](output/BlenderOutputCandyOnWrapper0100.png)
+![frame200](output/BlenderOutputCandyOnWrapper0200.png)
+![frame300](output/BlenderOutputCandyOnWrapper0300.png)
+![frame400](output/BlenderOutputCandyOnWrapper0400.png)
+![frame500](output/BlenderOutputCandyOnWrapper0500.png)
+![frame600](output/BlenderOutputCandyOnWrapper0600.png)
